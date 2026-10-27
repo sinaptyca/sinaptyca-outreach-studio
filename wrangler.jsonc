@@ -1,0 +1,5 @@
+{
+  "name": "sinaptyca-outreach-studio",
+  "main": "./sinaptyca-github-cloudflare/public/_worker.js",
+  "compatibility_date": "2026-10-27"
+}
